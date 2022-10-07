@@ -1,2 +1,6 @@
-# YT_L0_SQL_Python_PowerBI_Project
- Create a Data Science Project using SQL, Python and Power BI
+# Project : Predict Next Purchase
+## Objective : Create a Data Science Project using SQL, Python and Power BI
+
+
+Data Source: https://www.kaggle.com/competitions/instacart-market-basket-analysis
+
